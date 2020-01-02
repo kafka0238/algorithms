@@ -21,6 +21,7 @@ function binary_search(list, item) {
 }
 
 let myList = [1, 3, 5, 7, 9];
+console.log('binary search');
 console.log(binary_search(myList, 3));
 console.log(binary_search(myList, -1));
 /*
